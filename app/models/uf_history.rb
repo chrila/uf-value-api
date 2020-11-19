@@ -1,0 +1,2 @@
+class UfHistory < ApplicationRecord
+end
